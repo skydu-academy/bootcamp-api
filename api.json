@@ -1,0 +1,118 @@
+{
+    "donasi": [
+        {
+            "id": "1",
+            "createdAt": "2021-01-11T12:02:44.786Z",
+            "title": "Specialist",
+            "photo": "https://picsum.photos/seed/nightlife/640/480",
+            "currentDonation": 73,
+            "targetDonation": 48,
+            "description": "description 1"
+        },
+        {
+            "id": "2",
+            "createdAt": "2021-01-11T12:10:50.934Z",
+            "title": "PNG Orchestrator Grocery",
+            "photo": "https://picsum.photos/seed/technics/640/480",
+            "currentDonation": 69,
+            "targetDonation": 58,
+            "description": "description 2"
+        },
+        {
+            "id": "3",
+            "createdAt": "2021-01-11T14:31:13.178Z",
+            "title": "Netherlands Antilles",
+            "photo": "https://picsum.photos/seed/animals/640/480",
+            "currentDonation": 60,
+            "targetDonation": 94,
+            "description": "description 3"
+        },
+        {
+            "id": "4",
+            "createdAt": "2021-01-11T15:10:22.544Z",
+            "title": "niches",
+            "photo": "https://picsum.photos/seed/fashion/640/480",
+            "currentDonation": 57,
+            "targetDonation": 44,
+            "description": "description 4"
+        },
+        {
+            "id": "5",
+            "createdAt": "2021-01-12T00:08:00.564Z",
+            "title": "pixel compressing",
+            "photo": "https://picsum.photos/seed/sports/640/480",
+            "currentDonation": 90,
+            "targetDonation": 61,
+            "description": "description 5"
+        }
+    ],
+    "fruits": [
+        {
+            "id": "1",
+            "createdAt": "2021-01-11T20:57:09.358Z",
+            "title": "AGP",
+            "photo": "https://picsum.photos/seed/city/640/480",
+            "price": 56
+        },
+        {
+            "id": "2",
+            "createdAt": "2021-01-12T04:07:27.444Z",
+            "title": "Meadows",
+            "photo": "https://picsum.photos/seed/technics/640/480",
+            "price": 100
+        },
+        {
+            "id": "3",
+            "createdAt": "2021-01-11T15:44:03.438Z",
+            "title": "Sri Lanka viral recontextualize",
+            "photo": "https://picsum.photos/seed/city/640/480",
+            "price": 25
+        },
+        {
+            "id": "4",
+            "createdAt": "2021-01-12T03:53:05.420Z",
+            "title": "orange",
+            "photo": "https://picsum.photos/seed/nature/640/480",
+            "price": 80
+        },
+        {
+            "id": "5",
+            "createdAt": "2021-01-12T00:44:40.098Z",
+            "title": "Nevada bypassing Home Loan Account",
+            "photo": "https://picsum.photos/seed/people/640/480",
+            "price": 19
+        }
+    ],
+    "stories": [
+        {
+            "id": "1",
+            "createdAt": "2021-01-11T09:20:22.456Z",
+            "title": "withdrawal deposit Chief",
+            "photo": "https://picsum.photos/seed/transport/640/480"
+        },
+        {
+            "id": "2",
+            "createdAt": "2021-01-11T12:40:59.970Z",
+            "title": "real-time",
+            "photo": "https://picsum.photos/seed/people/640/480"
+        },
+        {
+            "id": "3",
+            "createdAt": "2021-01-11T22:44:35.290Z",
+            "title": "generating",
+            "photo": "https://picsum.photos/seed/technics/640/480"
+        },
+        {
+            "id": "4",
+            "createdAt": "2021-01-11T12:42:38.100Z",
+            "title": "alarm",
+            "photo": "https://picsum.photos/seed/technics2/640/480"
+        },
+        {
+            "id": "5",
+            "createdAt": "2021-01-11T10:34:45.552Z",
+            "title": "Assimilated Designer red",
+            "photo": "https://picsum.photos/seed/transport/640/480"
+        }
+    ]
+}
