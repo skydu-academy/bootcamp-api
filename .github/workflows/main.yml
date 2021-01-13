@@ -31,4 +31,4 @@ jobs:
           known_hosts: ${{ secrets.KNOWN_HOSTS }}
 
       - name: rsync over ssh
-        run: rsync $GITHUB_WORKSPACE/db.json yahya@ssh.skydu.cloud:/home/yahya/apps/apps/json-server/
+        run: rsync $GITHUB_WORKSPACE/api.json yahya@ssh.skydu.cloud:/home/yahya/apps/apps/json-server/
